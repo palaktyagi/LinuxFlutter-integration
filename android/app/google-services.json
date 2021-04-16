@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185593853457",
+    "project_id": "linux-integrated-apps",
+    "storage_bucket": "linux-integrated-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185593853457:android:a4f6782db302dbd3abe3b0",
+        "android_client_info": {
+          "package_name": "com.example.Linux_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185593853457-nhvq100a847i9c78k7njcnierg2gk1lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_KF0KGF_10KadALHoIgLfP2HSuV15ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185593853457-nhvq100a847i9c78k7njcnierg2gk1lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
